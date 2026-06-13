@@ -1,0 +1,11 @@
+# Data (large files, can be re-downloaded/re-generated)
+data/
+
+# Model artifacts (binary, regenerable)
+model/
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
